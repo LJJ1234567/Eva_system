@@ -1,0 +1,18 @@
+html, body, #app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.bg-purple {
+	    /* background: #d3dce6; */
+		background: #100C2A;
+}
+h3{
+	margin: 8px 0;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
